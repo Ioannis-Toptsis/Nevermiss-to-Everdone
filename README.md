@@ -185,9 +185,6 @@ The project uses strict TypeScript settings:
 
 ## FAQ ❓
 
-**Q: What is Neverness to Everness?**  
-A: Neverness to Everness is a multiplayer server/game that this tracker was built to accompany.
-
 **Q: Is there a cost?**  
 A: No, the application is completely free to use.
 
