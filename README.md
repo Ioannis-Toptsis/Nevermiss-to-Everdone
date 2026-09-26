@@ -197,52 +197,6 @@ A: Yes, you can delete your account and all associated data from your account se
 **Q: Is this an official project?**  
 A: No, this is an unofficial community project.
 
-**Q: Can I contribute?**  
-A: Absolutely! We welcome contributions. See the Contributing section below.
-
-## Contributing 🤝
-
-We welcome contributions from the community! Please follow these steps:
-
-1. **Fork the repository**
-   ```bash
-   git clone https://github.com/Ioannis-Toptsis/Nevermiss-to-Everdone.git
-   ```
-
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-
-3. **Make your changes**
-   - Follow the existing code style
-   - Use TypeScript, no `any` types
-   - Write meaningful commit messages
-
-4. **Commit your changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-
-5. **Push to the branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-
-6. **Open a Pull Request**
-   - Describe your changes clearly
-   - Reference any related issues
-   - Wait for review and feedback
-
-### Development Guidelines
-
-- Use TypeScript exclusively — no `any` types allowed
-- Write descriptive commit messages
-- Test locally before committing
-- Follow the existing code style and conventions
-- Keep components focused and reusable
-- Add comments for complex logic
-
 ## Troubleshooting 🔧
 
 ### Port 4000 already in use
@@ -272,14 +226,12 @@ npm run build
 
 ## Support & Contact 💬
 
-- **Issues**: Please use the [Issues tab](../../issues) to report bugs or request features
-- **Discussions**: Use [Discussions](../../discussions) for questions and ideas
 - **Email**: support@janni.email
 - **Discord**: [Join our community](https://janni.fun/discord)
 
 ## Related Resources 🔗
 
-- [Live Website](https://nte.life)
+- [Website](https://janni.fun)
 - [Community Discord](https://janni.fun/discord)
 - [Issues & Bug Reports](../../issues)
 - [Feature Requests](../../discussions)
@@ -288,7 +240,6 @@ npm run build
 
 - Neverness to Everness Community
 - Next.js and React teams
-- Open source contributors
 - All our users and testers
 
 ## License 📄
@@ -297,6 +248,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for full 
 
 ---
 
-**Status**: ✅ Actively Maintained  
-
-**Happy tracking! Enjoy managing your NTE Dailys and Weeklys! 🎮**
+**Status**: This plugin is no longer under active development and will not receive future updates or support.
