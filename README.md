@@ -1,4 +1,4 @@
-# Nevermiss to Everdone 📋
+# Nevermiss to Everdone
 
 An unofficial companion for **Neverness to Everness** — a modern web dashboard for managing daily tasks (Dailys), weekly tasks (Weeklys), and checklists for the NTE server.
 
@@ -7,7 +7,7 @@ An unofficial companion for **Neverness to Everness** — a modern web dashboard
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.8-blue?logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4-38B2AC?logo=tailwind-css)
 
-## Features ✨
+## Features
 
 - **📅 NTE Dailys & Weeklys Tracker** — Manage all daily and weekly tasks in one place
 - **⏰ Reset Timers** — Automatic server reset calculations with customizable presets
@@ -17,7 +17,7 @@ An unofficial companion for **Neverness to Everness** — a modern web dashboard
 - **🎨 Responsive Design** — Works perfectly on desktop, tablet, and mobile
 - **🔒 Secure Authentication** — Bcrypt-encrypted passwords and session management
 
-## Tech Stack 🛠️
+## Tech Stack
 
 - **Frontend**: Next.js 15, React 19, TypeScript
 - **Styling**: Tailwind CSS, PostCSS
@@ -27,7 +27,7 @@ An unofficial companion for **Neverness to Everness** — a modern web dashboard
 - **Security**: bcryptjs, HTTP-only Cookies
 - **Date Handling**: date-fns, date-fns-tz
 
-## Quick Start 🚀
+## Quick Start
 
 ### Prerequisites
 
@@ -60,7 +60,7 @@ An unofficial companion for **Neverness to Everness** — a modern web dashboard
    npm start
    ```
 
-## Usage 📖
+## Usage
 
 ### Guest Mode
 - Open the app and start managing your tasks immediately
@@ -77,7 +77,7 @@ An unofficial companion for **Neverness to Everness** — a modern web dashboard
 - Daily resets are calculated automatically
 - Weekly resets typically start on Monday
 
-## Project Structure 📁
+## Project Structure
 
 ```
 src/
@@ -100,7 +100,7 @@ src/
 └── types/            # Shared TypeScript types
 ```
 
-## Environment Variables 🔐
+## Environment Variables
 
 Create a `.env.local` file in the project root:
 
@@ -115,7 +115,7 @@ SESSION_SECRET=your_secret_key
 NEXT_PUBLIC_API_URL=http://localhost:4000
 ```
 
-## Available Scripts 💻
+## Available Scripts
 
 ```bash
 # Development server with hot reload
@@ -128,7 +128,7 @@ npm run build
 npm start
 ```
 
-## Configuration 🔧
+## Configuration
 
 ### TypeScript
 The project uses strict TypeScript settings:
@@ -142,14 +142,14 @@ The project uses strict TypeScript settings:
 - PostCSS for processing
 - Custom component conventions
 
-## Browser Support 🌐
+## Browser Support
 
 - Chrome/Edge 90+
 - Firefox 88+
 - Safari 14+
 - Mobile browsers (iOS Safari, Chrome Android)
 
-## Performance & Security 🔒
+## Performance & Security
 
 ### Performance
 - Next.js Image Optimization
@@ -165,7 +165,7 @@ The project uses strict TypeScript settings:
 - Zod schema validation for all inputs
 - XSS protection
 
-## API Endpoints 🔌
+## API Endpoints
 
 ### Authentication
 - `POST /api/auth/login` — User login
@@ -183,7 +183,7 @@ The project uses strict TypeScript settings:
 - `GET /api/progress` — Get progress data
 - `POST /api/progress` — Save progress
 
-## FAQ ❓
+## FAQ
 
 **Q: Is there a cost?**  
 A: No, the application is completely free to use.
@@ -197,7 +197,7 @@ A: Yes, you can delete your account and all associated data from your account se
 **Q: Is this an official project?**  
 A: No, this is an unofficial community project.
 
-## Troubleshooting 🔧
+## Troubleshooting
 
 ### Port 4000 already in use
 ```bash
@@ -224,25 +224,25 @@ rm -rf .next
 npm run build
 ```
 
-## Support & Contact 💬
+## Support & Contact
 
 - **Email**: support@janni.email
 - **Discord**: [Join our community](https://janni.fun/discord)
 
-## Related Resources 🔗
+## Related Resources
 
 - [Website](https://janni.fun)
 - [Community Discord](https://janni.fun/discord)
 - [Issues & Bug Reports](../../issues)
 - [Feature Requests](../../discussions)
 
-## Acknowledgments 👏
+## Acknowledgments
 
 - Neverness to Everness Community
 - Next.js and React teams
 - All our users and testers
 
-## License 📄
+## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
 
